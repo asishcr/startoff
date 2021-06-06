@@ -1,0 +1,26 @@
+/*Selector {	
+
+
+}*/
+
+body{
+	background-image: url(bg.jpg); 
+	background-size: cover;
+}
+
+
+h1{
+	color:black;
+	text-align: center;
+	border: 5px solid silver;
+	cursor: pointer;
+}
+
+p{
+	color:red;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
